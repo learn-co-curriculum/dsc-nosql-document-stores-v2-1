@@ -1,5 +1,5 @@
 
-# NoSQL Databases
+# NoSQL Databases: Document Stores
 
 ## Introduction
 
