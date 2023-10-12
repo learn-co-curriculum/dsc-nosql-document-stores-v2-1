@@ -1,4 +1,3 @@
-
 # NoSQL Databases: Document Stores
 
 ## Introduction
@@ -40,7 +39,7 @@ Note that while this flexibility makes it easy for us to store data on the fly, 
 
 ##### Popular  Document Store Databases: MongoDB and Couchbase
 
-| <img src="images/mongo-db-logo.png" height=60% width=60%> | <img src="images/couchbase-logo.png"> |
+| <img src="https://curriculum-content.s3.amazonaws.com/data-science/images/mongo-db-logo.png" height=60% width=60%> | <img src="https://curriculum-content.s3.amazonaws.com/data-science/images/couchbase-logo.png"> |
 |---------------------|---------------------|
 
 
